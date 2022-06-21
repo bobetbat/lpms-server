@@ -1,7 +1,7 @@
 {
   "name": "LPMS server",
   "description": "LPMS server",
-  "repository": "https://github.com/windingtree/lpms-server",
+  "repository": "https://github.com/bobetbat/lpms-server",
   "keywords": ["node", "express"],
   "env": {
     "CLIENT_URL": "<CLIENT_URL>",
